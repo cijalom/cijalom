@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Your Name]!
+# 👋 Hey, I'm Cijalom!
 
 Welcome to my GitHub profile! I'm a student at [Boston University](https://www.bu.edu), exploring the world of programming and technology. I enjoy learning new things, working on small projects, and improving my coding skills.
 
