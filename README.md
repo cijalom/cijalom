@@ -15,10 +15,6 @@ I’m always learning and experimenting with different technologies. Here are a 
 - **Languages:** Java, JavaScript, & TypeScript (I'm currently trying to learn Kotlin & C#)
 - **Tools & Frameworks:** Git, Phaser, and whatever new tech catches my interest.  
 
-## 📂 Projects & Repositories
-
-Most of my projects are for learning and experimenting. You’ll find a mix of coursework, side projects, and things I built just for fun. Feel free to check them out!  
-
 ## 📈 GitHub Stats
 
 ![cijalom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true)
