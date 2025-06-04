@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a student at [Boston University](https://www.b
 
 I’m always learning and experimenting with different technologies. Here are a few I’ve worked with or explored:  
 
-- **Languages:** Java & JavaScript (I'm currently trying to learn Kotlin & C#)
+- **Languages:** Java, JavaScript, & TypeScript (I'm currently trying to learn Kotlin & C#)
 - **Tools & Frameworks:** Git, Phaser, and whatever new tech catches my interest.  
 
 ## 📂 Projects & Repositories
