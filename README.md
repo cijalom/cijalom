@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a student at [Boston University](https://www.b
 
 I’m always learning and experimenting with different technologies. Here are a few I’ve worked with or explored:  
 
-- **Languages:** Java & Python (I'm currently trying to learn Kotlin)
-- **Tools & Frameworks:** Git, JavaFX, and whatever new tech catches my interest.  
+- **Languages:** Python & Rust
+- **Tools & Frameworks:** Git, Godot, Pygame
 
 ## 📈 GitHub Stats
 
